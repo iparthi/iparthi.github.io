@@ -3,6 +3,13 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
  */
+
+@font-face {
+				font-family: 'Bernard MT Condensed';
+				src: url('fonts/BERNHC.TTF');
+				format('truetype');
+			}
+			
 body,
 html {
   width: 100%;
